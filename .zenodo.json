@@ -1,0 +1,22 @@
+{
+  "title": "The Conductor-21 L-Function: Certified Zeros, Exact Laws, and a Density-Prime Operator - verification deposit",
+  "description": "Verification artifact for the Conductor-21 (chi_8 / PSL(2,7) genome) L-function program. Contains the certificate packages behind each claim of the paper's Appendix C map, the reusable engines (Appendix C.2), a consolidated SHA256SUMS, and verify_deposit.py. Code is MIT-licensed; data (bracket tables, certification scans, the certified spectrum) is CC BY 4.0. Every 8-hex certificate prefix cited in Appendix C resolves against this deposit.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "creators": [
+    { "name": "Stenberg, Selina" },
+    { "name": "Balashov, Ilya" }
+  ],
+  "keywords": [
+    "Riemann hypothesis",
+    "L-functions",
+    "Dirichlet character chi_8",
+    "PSL(2,7)",
+    "certified zeros",
+    "interval arithmetic",
+    "Arb",
+    "de Branges spaces",
+    "conductor 21"
+  ]
+}

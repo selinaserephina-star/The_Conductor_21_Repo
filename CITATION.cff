@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this deposit, please cite the paper and this artifact."
+title: "The Conductor-21 L-Function: Certified Zeros, Exact Laws, and a Density-Prime Operator - verification deposit"
+type: software
+authors:
+  - family-names: Stenberg
+    given-names: Selina
+  - family-names: Balashov
+    given-names: Ilya
+license: MIT
+keywords:
+  - Riemann hypothesis
+  - L-functions
+  - Dirichlet character chi_8
+  - PSL(2,7)
+  - certified zeros
+  - interval arithmetic
+  - conductor 21

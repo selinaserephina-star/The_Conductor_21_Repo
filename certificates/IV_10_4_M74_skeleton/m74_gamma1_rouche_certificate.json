@@ -1,0 +1,19 @@
+{
+ "target": "M74 gamma_1 contour",
+ "gamma_1": "[14.1347251417346937904572519835620000000000000000000000000 +/- 3.70e-57]",
+ "r_1": 2.2957714990122873,
+ "N": 2,
+ "skeleton_definition": "Mtilde_N(t) = s(s-1)/2 [ sum_{n<=N} (pi^{-s/2}Gamma(s/2,pi n^2) + pi^{-(1-s)/2}Gamma((1-s)/2,pi n^2)) - 1/s - 1/(1-s) ], s=1/2+it (CANONICAL theta-AFE; IB to confirm equivalence with M74's Mtilde_N)",
+ "B1_inf_C_abs_Xi_rigorous_lower": 0.000495655539452855,
+ "supC_abs_Xi_rigorous_upper": 0.013369140702707227,
+ "A_N1_rigorous_upper": 3.4176234451169542e-09,
+ "pass_A_lt_B": true,
+ "margin_B_over_A": 145029.30103696467,
+ "method": "arb prec 192; B via 4096 arc-chunk ball enclosures (no continuity argument needed); A via monotone incomplete-gamma bounds at sigma_max, n to N+40 + certified geometric closure",
+ "verdict": "ROUCHE_CERTIFIED_ONE_ZERO",
+ "not_claimed": [
+  "RH",
+  "GRH",
+  "M74 closed beyond this disk"
+ ]
+}
